@@ -1,0 +1,5 @@
+package kr.hs.survey.member.model;
+
+public class MemberVO {
+
+}

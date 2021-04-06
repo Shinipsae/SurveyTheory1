@@ -1,0 +1,8 @@
+package kr.hs.survey.user;
+
+public interface IUserMapper {
+	
+	void addMember(MemberVO member);
+	void deleteMember(MemberVO member);
+
+}

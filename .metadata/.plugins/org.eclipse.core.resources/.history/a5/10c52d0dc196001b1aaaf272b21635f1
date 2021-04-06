@@ -1,0 +1,5 @@
+package kr.hs.survey.member.service;
+
+public interface IMemberService {
+
+}

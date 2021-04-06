@@ -1,0 +1,19 @@
+1617703501321	Rename resource 'META-INF'
+1617703509661	Delete element
+1617703625108	Copy package
+1617703629828	Copy package
+1617703644127	Copy package
+1617703649618	Delete element
+1617703660495	Copy package
+1617703678556	Delete element
+1617703690986	Delete elements
+1617703719439	Copy package
+1617703727954	Copy package
+1617703734875	Copy package
+1617703801120	Move compilation unit
+1617703820029	Rename type 'IUserMapper'
+1617703868025	Rename package 'kr.hs.survey.user.controller'
+1617703875941	Rename package 'kr.hs.survey.user.model'
+1617703883872	Rename package 'kr.hs.survey.user.repository'
+1617703891565	Rename package 'kr.hs.survey.user.service'
+1617710887381	Rename resource 'UserMapper.xml'

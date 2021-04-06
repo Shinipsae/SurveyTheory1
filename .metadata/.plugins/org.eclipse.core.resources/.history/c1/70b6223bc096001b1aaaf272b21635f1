@@ -1,0 +1,5 @@
+package kr.hs.survey.user;
+
+public interface IUserMapper {
+
+}

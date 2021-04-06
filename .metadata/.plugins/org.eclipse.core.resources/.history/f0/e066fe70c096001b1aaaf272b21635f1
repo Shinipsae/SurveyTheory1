@@ -1,0 +1,8 @@
+package kr.hs.survey.user.repository;
+
+public interface IMemberMapper {
+	
+	void addMember(MemberVO member);
+	void deleteMember(MemberVO member);
+
+}

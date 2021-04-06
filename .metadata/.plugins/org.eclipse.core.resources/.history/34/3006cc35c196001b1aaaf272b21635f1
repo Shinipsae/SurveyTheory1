@@ -1,0 +1,6 @@
+package kr.hs.survey.member.service;
+
+@Service
+public class MemberService implements IMemberService{
+
+}
